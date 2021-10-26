@@ -1,0 +1,67 @@
+body{
+    background-color: rgba(184, 182, 182, 0.418);
+}
+h1 {
+    display: block;
+    font-size: 64px;
+    text-align: center;
+    color:  blue;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    background-color: burlywood;
+  }
+  h2{
+    text-align: center;
+  }
+  footer{
+    text-align: center;
+    background-color: rgb(76, 185, 212);
+  }
+
+  .active{
+    background-color: rgb(76, 185, 212);
+    
+    
+  }
+  
+  .nav_bar {
+    background-color: rgb(76, 185, 212);
+    overflow: hidden;
+    transition: top 0.3s;
+    float:left;
+    padding: 10px 10px;
+  }
+ 
+  .img_selfie {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+  height: 10%;
+  background-color: rgb(76, 185, 212);
+  padding: 10px 10px;
+  }
+  h2.resume{
+    display: block;
+    font-size: 64px;
+    text-align: center;
+    color:  blue;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    background-color: burlywood;
+  }
+
+ figcaption{
+    text-align: center;
+
+ } 
+
+  p{
+    text-align: center;
+  }
