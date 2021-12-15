@@ -74,15 +74,164 @@ h1 {
     padding: 10px 10px;
   }
  
-  .img_selfie {
+  
+  .img_vandal {
     display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 10%;
-  height: 10%;
+  width: 30%;
+  height: 30%;
   background-color: rgb(76, 185, 212);
   padding: 10px 10px;
   }
+
+  .img_classic {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  background-color: rgb(76, 185, 212);
+  padding: 10px 10px;
+  }
+  .img_shorty {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  background-color: rgb(76, 185, 212);
+  padding: 10px 10px;
+  }
+  .img_frenzy {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  background-color: rgb(76, 185, 212);
+  padding: 10px 10px;
+  }
+  .img_ghost {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  background-color: rgb(76, 185, 212);
+  padding: 10px 10px;
+  }
+  .img_sheriff {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  background-color: rgb(76, 185, 212);
+  padding: 10px 10px;
+  }
+  .img_stinger {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  background-color: rgb(76, 185, 212);
+  padding: 10px 10px;
+  }
+  .img_spectre {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  background-color: rgb(76, 185, 212);
+  padding: 10px 10px;
+  }
+  .img_bucky {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  background-color: rgb(76, 185, 212);
+  padding: 10px 10px;
+  }
+  .img_judge {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  background-color: rgb(76, 185, 212);
+  padding: 10px 10px;
+  }
+  .img_bulldog {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  background-color: rgb(76, 185, 212);
+  padding: 10px 10px;
+  }
+  .img_guardian {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  background-color: rgb(76, 185, 212);
+  padding: 10px 10px;
+  }
+  .img_phantom {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  background-color: rgb(76, 185, 212);
+  padding: 10px 10px;
+  }
+
+  .img_marshal {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  background-color: rgb(76, 185, 212);
+  padding: 10px 10px;
+  }
+  .img_operator {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  background-color: rgb(76, 185, 212);
+  padding: 10px 10px;
+  }
+  .img_ares {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  background-color: rgb(76, 185, 212);
+  padding: 10px 10px;
+  }
+  .img_odin {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  background-color: rgb(76, 185, 212);
+  padding: 10px 10px;
+  }
+
+
   h2.resume{
     display: block;
     font-size: 64px;
